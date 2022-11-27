@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nouf-Alamro
 - 👀 I’m interested in project Management 
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Digital Transformation and Data Science for Business Leaders 
+- 💞️ I’m looking to collaborate on project Management 
 
 <!---
 Nouf-Alamro/Nouf-Alamro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
